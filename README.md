@@ -3,7 +3,7 @@ cyber-notion-cli
 
 git clone https://github.com/spoof0x0/cyotin-cli.git
 
-cd project
+cd cyotin-cli
 
 npm install
 
